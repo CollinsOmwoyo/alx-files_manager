@@ -1,4 +1,5 @@
 # Objectives of this project
+
 -How to create an API with Express
 -How to authenticate a user
 -How to store data in MongoDB
